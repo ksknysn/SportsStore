@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SportsStore.Tests
-build_property.ProjectDir = C:\Users\keskiny\workspace\book\SportsSln\SportsStore.Tests\
+build_property.ProjectDir = C:\Users\keskiny\workspace\book\SportsStore\SportsStore.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
