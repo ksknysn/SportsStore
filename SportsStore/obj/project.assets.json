@@ -4180,11 +4180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keskiny\\workspace\\book\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\Users\\keskiny\\workspace\\book\\SportsStore\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\keskiny\\workspace\\book\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectPath": "C:\\Users\\keskiny\\workspace\\book\\SportsStore\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\keskiny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keskiny\\workspace\\book\\SportsSln\\SportsStore\\obj\\",
+      "outputPath": "C:\\Users\\keskiny\\workspace\\book\\SportsStore\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keskiny\\AppData\\Roaming\\NuGet\\NuGet.Config"
